@@ -14,7 +14,7 @@ A futuristic personal portfolio website built using HTML, CSS, and JavaScript wi
 - JavaScript
 
 ## Live Demo
-[View Portfolio]((https://sanjayr-dev458.github.io/My-Portfolio/))
+[View Portfolio](https://sanjayr-dev458.github.io/My-Portfolio/)
 
 ## Author
 **Sanjay Ragunathan**
